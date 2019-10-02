@@ -11,11 +11,6 @@ public class Orange
 		else
 		this.prix =p;
 		this.origine = o;
-				
-	
-			System.out.println("prix negatif, impossible de creer l'orange");
-	
-	
 	
 	}
 
