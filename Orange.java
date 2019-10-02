@@ -11,12 +11,7 @@ public class Orange
 		else
 		this.prix =p;
 		this.origine = o;
-				
-	
-			System.out.println("prix negatif, impossible de creer l'orange");
-	
-	
-	
+		
 	}
 
 	public double getPrix()
@@ -36,7 +31,7 @@ public class Orange
 {
 	Orange o= new Orange(-4,"France");
 	System.out.println(o.toString());
-	
+	Sytem.out.println("");
 
 }
 }
