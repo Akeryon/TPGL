@@ -31,7 +31,6 @@ public class Orange
 {
 	Orange o= new Orange(-4,"France");
 	System.out.println(o.toString());
-	Sytem.out.println("c moi ");
 
 }
 }
